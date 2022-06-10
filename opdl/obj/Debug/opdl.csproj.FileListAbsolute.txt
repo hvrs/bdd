@@ -1,0 +1,11 @@
+G:\ОПБД\Сессия 1\opdl\opdl\bin\Debug\opdl.exe.config
+G:\ОПБД\Сессия 1\opdl\opdl\bin\Debug\opdl.exe
+G:\ОПБД\Сессия 1\opdl\opdl\bin\Debug\opdl.pdb
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.csproj.AssemblyReference.cache
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.Form1.resources
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.Properties.Resources.resources
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.csproj.GenerateResource.cache
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.csproj.CoreCompileInputs.cache
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.exe
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.pdb
+G:\ОПБД\Сессия 1\opdl\opdl\obj\Debug\opdl.newClient_Form.resources
